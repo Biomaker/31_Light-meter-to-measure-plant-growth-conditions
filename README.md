@@ -13,7 +13,7 @@ A summary of your project. This is the 150 word description from your proposal. 
 ## Software
 
 
-#include <Wire.h>
+`#include <Wire.h>
 #include <BH1750.h>
 #include "rgb_lcd.h"
 
@@ -51,7 +51,7 @@ void loop() {
   // print the number of seconds since reset:
   lcd.print(lux);
   delay(1000);
-}
+}`
 
 ## Hardware
 
