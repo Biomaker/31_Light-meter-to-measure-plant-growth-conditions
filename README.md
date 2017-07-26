@@ -12,18 +12,18 @@ A summary of your project. This is the 150 word description from your proposal. 
 
 ## Software
 
-
-`#include <Wire.h>
+<p>
+#include <Wire.h>
 #include <BH1750.h>
 #include "rgb_lcd.h"
-
+  </p><p>
 rgb_lcd lcd;
 const int colorR = 0;
 const int colorG = 0;
 const int colorB = 0;
-
+</p><p>
 BH1750 lightMeter;
-
+</p><p>
 void setup() {
   Serial.begin(9600);
   lightMeter.begin();
@@ -34,7 +34,7 @@ void setup() {
   // Print a message to the LCD.
   lcd.print("Light intensity");
 }
-
+  </p>
 void loop() {
   uint16_t lux = lightMeter.readLightLevel();
   Serial.print("Light: ");
@@ -51,7 +51,7 @@ void loop() {
   // print the number of seconds since reset:
   lcd.print(lux);
   delay(1000);
-}`
+}
 
 ## Hardware
 
