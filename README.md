@@ -12,7 +12,46 @@ A summary of your project. This is the 150 word description from your proposal. 
 
 ## Software
 
-Explain functionality of software components (if any) as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Ideally, this should be pseudo code or an abstract graphical representation of your code e.g entity relationship diagram. Consider adding a screenshot of your User Interface.
+
+#include <Wire.h>
+#include <BH1750.h>
+#include "rgb_lcd.h"
+
+rgb_lcd lcd;
+const int colorR = 0;
+const int colorG = 0;
+const int colorB = 0;
+
+BH1750 lightMeter;
+
+void setup() {
+  Serial.begin(9600);
+  lightMeter.begin();
+  Serial.println("Running...");
+  // set up the LCD's number of columns and rows:
+  lcd.begin(16, 2);
+  lcd.setRGB(colorR, colorG, colorB);
+  // Print a message to the LCD.
+  lcd.print("Light intensity");
+}
+
+void loop() {
+  uint16_t lux = lightMeter.readLightLevel();
+  Serial.print("Light: ");
+  Serial.print(lux);
+  Serial.println(" lx");
+
+  // Clear the bottom line of the LCD
+  lcd.setCursor(0,1);
+  lcd.print("          ");
+
+  // For LCD: set the cursor to column 0, line 1
+  // (note: line 1 is the second row, since counting begins with 0):
+  lcd.setCursor(0, 1);
+  // print the number of seconds since reset:
+  lcd.print(lux);
+  delay(1000);
+}
 
 ## Hardware
 
