@@ -55,6 +55,15 @@ void loop() {<br>
 
 Explain how the hardware components (if any) of your project function as concisely as possible, including a short description of fabrication and assembly. Component suppliers and part numbers should be provided separately in a bill of materials, in a 'Hardware Folder'.
 
+Here are some initial images of the hardware. These will be replaced with better ones once the images are ready.
+
+<img src="images/IMG_6588.JPG" alt="image"/>
+<img src="images/IMG_6597.JPG" alt="image"/>
+<img src="images/IMG_6598.JPG" alt="image"/>
+<img src="images/IMG_6599.JPG" alt="image"/>
+<img src="images/IMG_6600.JPG" alt="image"/>
+<img src="images/IMG_6601.JPG" alt="image"/>
+
 ## Installation, Maintenance and Testing Guide
 
 Provide instructions on usage, describe a test scheme and show how to run the tests with code and hardware configuration examples with some representative results.
