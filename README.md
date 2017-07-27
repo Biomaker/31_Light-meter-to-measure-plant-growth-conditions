@@ -51,6 +51,7 @@ void loop() {<br>
   delay(1000);<br>
 }<br>
 </p>
+  
 ## Hardware
 
 Explain how the hardware components (if any) of your project function as concisely as possible, including a short description of fabrication and assembly. Component suppliers and part numbers should be provided separately in a bill of materials, in a 'Hardware Folder'.
