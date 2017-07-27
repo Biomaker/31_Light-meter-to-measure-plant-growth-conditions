@@ -13,46 +13,46 @@ A summary of your project. This is the 150 word description from your proposal. 
 ## Software
 
 <p>
-#include <Wire.h>
-#include <BH1750.h>
-#include "rgb_lcd.h"
+#include <Wire.h><br>
+#include <BH1750.h><br>
+#include "rgb_lcd.h"<br>
   </p><p>
-rgb_lcd lcd;
-const int colorR = 0;
-const int colorG = 0;
-const int colorB = 0;
+rgb_lcd lcd;<br>
+const int colorR = 0;<br>
+const int colorG = 0;<br>
+const int colorB = 0;<br>
 </p><p>
-BH1750 lightMeter;
+BH1750 lightMeter;<br>
 </p><p>
-void setup() {
-  Serial.begin(9600);
-  lightMeter.begin();
-  Serial.println("Running...");
-  // set up the LCD's number of columns and rows:
-  lcd.begin(16, 2);
-  lcd.setRGB(colorR, colorG, colorB);
-  // Print a message to the LCD.
-  lcd.print("Light intensity");
-}
-  </p>
-void loop() {
-  uint16_t lux = lightMeter.readLightLevel();
-  Serial.print("Light: ");
-  Serial.print(lux);
-  Serial.println(" lx");
-
-  // Clear the bottom line of the LCD
-  lcd.setCursor(0,1);
-  lcd.print("          ");
-
-  // For LCD: set the cursor to column 0, line 1
-  // (note: line 1 is the second row, since counting begins with 0):
-  lcd.setCursor(0, 1);
-  // print the number of seconds since reset:
-  lcd.print(lux);
-  delay(1000);
-}
-
+void setup() {<br>
+  Serial.begin(9600);<br>
+  lightMeter.begin();<br>
+  Serial.println("Running...");<br>
+  // set up the LCD's number of columns and rows:<br>
+  lcd.begin(16, 2);<br>
+  lcd.setRGB(colorR, colorG, colorB);<br>
+  // Print a message to the LCD.<br>
+  lcd.print("Light intensity");<br>
+}<br>
+  </p><p>
+void loop() {<br>
+  uint16_t lux = lightMeter.readLightLevel();<br>
+  Serial.print("Light: ");<br>
+  Serial.print(lux);<br>
+  Serial.println(" lx");<br>
+</p><p>
+  // Clear the bottom line of the LCD<br>
+  lcd.setCursor(0,1);<br>
+  lcd.print("          ");<br>
+</p><p>
+  // For LCD: set the cursor to column 0, line 1<br>
+  // (note: line 1 is the second row, since counting begins with 0):<br>
+  lcd.setCursor(0, 1);<br>
+  // print the number of seconds since reset:<br>
+  lcd.print(lux);<br>
+  delay(1000);<br>
+}<br>
+</p>
 ## Hardware
 
 Explain how the hardware components (if any) of your project function as concisely as possible, including a short description of fabrication and assembly. Component suppliers and part numbers should be provided separately in a bill of materials, in a 'Hardware Folder'.
