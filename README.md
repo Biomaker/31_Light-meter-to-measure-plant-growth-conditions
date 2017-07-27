@@ -57,12 +57,13 @@ Explain how the hardware components (if any) of your project function as concise
 
 Here are some initial images of the hardware. These will be replaced with better ones once the images are ready.
 
+<img src="images/IMG_6600.JPG" alt="image"/>
+<img src="images/IMG_6601.JPG" alt="image"/>
 <img src="images/IMG_6588.JPG" alt="image"/>
 <img src="images/IMG_6597.JPG" alt="image"/>
 <img src="images/IMG_6598.JPG" alt="image"/>
 <img src="images/IMG_6599.JPG" alt="image"/>
-<img src="images/IMG_6600.JPG" alt="image"/>
-<img src="images/IMG_6601.JPG" alt="image"/>
+
 
 ## Installation, Maintenance and Testing Guide
 
