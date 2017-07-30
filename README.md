@@ -18,7 +18,7 @@ The accommodation of the human eye means that we are often unaware that we may b
 </p><p>
 The horticultural industry contributes to this lack of clarity by simply taking about "shade", "full sun", and "partial shade" without giving any more clarity about exactly what this means in any standard unit of light intensity. It generally talks about the number of hours of full sun received, but my intuition is that 6 hours of full sun would be a very different thing in Orkney, from 6 hours of full sun received in Kent, especially during the winter. 
 </p><p>
-The light meter construction shown here, attempts to address this problem somewhat by allowing people to condsider their own gardening and light conditions. The light meter is made from standard, easily bought parts. I have chosen the parts because the are cheap and easy to put together, the light sensor detects the correct range of light intensity, and the code is very easy to use and debug. 
+The light meter construction shown here, attempts to address this problem somewhat by allowing people to consider their own gardening and light conditions. The light meter is made from standard, easily bought parts. I have chosen the parts because the are cheap and easy to put together, the light sensor detects the correct range of light intensity, and the code is very easy to use and debug. 
 </p><p>
 My hope is that this how-to could be published by a gardening magazine like Gardeners' World Magazine, and that it could encourage many young gardeners to build their own light meter and measure the light conditions that are underpinning or undermining their growing success.
 </p><p>
