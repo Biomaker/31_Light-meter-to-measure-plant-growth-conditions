@@ -16,7 +16,7 @@ However, one difference that is really hard to quantify is light intensity. This
 </p><p>
 The accommodation of the human eye means that we are often unaware that we may be in really very dim, or very bright light. It also makes it hard to spot that a house plant might be really struggling to capture adequate light, while another plant just outside an adjacent window may be struggling with excess light, causing breakdown of the photosystems in its leaves. 
 </p><p>
-The horticultural industry contributes to this lack of clarity by simply taking about "shade", "full sun", and "Partial shade" without giving any more clarity about exactly what this means in any standard unit of light intensity. It generally talks about the number of hours of full sun received, but my intuition is that 6 hours of full sun would be a very different thing in Orkney, from 6 hours of full sun received in Kent. 
+The horticultural industry contributes to this lack of clarity by simply taking about "shade", "full sun", and "partial shade" without giving any more clarity about exactly what this means in any standard unit of light intensity. It generally talks about the number of hours of full sun received, but my intuition is that 6 hours of full sun would be a very different thing in Orkney, from 6 hours of full sun received in Kent, especially during the winter. 
 </p><p>
 The light meter construction shown here, attempts to address this problem somewhat by allowing people to condsider their own gardening and light conditions. The light meter is made from standard, easily bought parts. I have chosen the parts because the are cheap and easy to put together, the light sensor detects the correct range of light intensity, and the code is very easy to use and debug. 
 </p><p>
