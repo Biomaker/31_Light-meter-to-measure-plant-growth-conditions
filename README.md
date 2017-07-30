@@ -30,7 +30,8 @@ I anticipate that before publishing the article it would be helpful to negotiate
 </p><p>
 This project could perhaps be followed up by further adrunio-based projects to measure temperature and other factors in plant growth.
 </p><p>
-The kind of results that might be found are explained helpfully in <a href= "http://www.ccfg.org.uk/conferences/downloads/P_Burgess.pdf" this document</a>.
+The kind of results that might be found are explained helpfully in 
+  <a href="http://www.ccfg.org.uk/conferences/downloads/P_Burgess.pdf" this document</a>.
 </p><p>
 
 
