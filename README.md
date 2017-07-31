@@ -85,7 +85,7 @@ Explain how the hardware components (if any) of your project function as concise
 
 Notes on hardware to be moved to the Hardware folder:
 </p><p>
-- <a href="https://www.amazon.co.uk/Conductor-Female-Jumper-Color-Ribbon/dp/B00ATMHU525> jumper leads, male to female</a><br>
+- <a href="https://www.amazon.co.uk/Conductor-Female-Jumper-Color-Ribbon/dp/B00ATMHU525"> jumper leads, male to female</a><br>
 - <a href="https://www.dfrobot.com/>one light sensor BH1750</a><br>
 - <a href="https://www.amazon.co.uk/Arduino-A000066-UNO/dp/B008GRTSV6/ref=sr_1_4?s=computers&ie=UTF8&qid=1501468175&sr=1-4&keywords=arduino+uno">One arduino Uno</a><br>
 - <a href="https://www.seeedstudio.com/Grove-LCD-RGB-Backlight-p-1643.html>One Grove-LCD RGB Backlight v4.0</a><br>
