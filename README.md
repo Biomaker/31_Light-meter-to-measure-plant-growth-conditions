@@ -83,6 +83,19 @@ void loop() {<br>
 
 Explain how the hardware components (if any) of your project function as concisely as possible, including a short description of fabrication and assembly. Component suppliers and part numbers should be provided separately in a bill of materials, in a 'Hardware Folder'.
 
+Notes on hardware to be moved to the Hardware folder:
+
+5 jumper leads, male to female
+https://www.amazon.co.uk/Conductor-Female-Jumper-Color-Ribbon/dp/B00ATMHU52
+one light sensor BH1750 available from https://www.dfrobot.com/
+One arduino Uno
+https://www.amazon.co.uk/Arduino-A000066-UNO/dp/B008GRTSV6/ref=sr_1_4?s=computers&ie=UTF8&qid=1501468175&sr=1-4&keywords=arduino+uno
+One Grove-LCD RGB Backlight v4.0
+https://www.seeedstudio.com/Grove-LCD-RGB-Backlight-p-1643.html
+One battery + wire to power the Arduino. AA batteries ideal as rechargables are easy to obtain. 
+https://www.dfrobot.com/product-500.html
+
+
 Here are some initial images of the hardware. These will be replaced with better ones once the images are ready.
 
 <img src="images/IMG_6600.JPG" alt="image"/>
