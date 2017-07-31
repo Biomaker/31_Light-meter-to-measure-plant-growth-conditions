@@ -32,7 +32,7 @@ This project could perhaps be followed up by further adrunio-based projects to m
 </p><p>
 The kind of results that might be found are explained helpfully in this document: http://www.ccfg.org.uk/conferences/downloads/P_Burgess.pdf.
 </p><p>
-
+One caveat to this project is that this equipment is not especially novel. Similar devices such as the <a href="https://www.pat-services.co.uk/testsafe-tslm2-adjustable-luxmeter?fee=5&fep=5851&gclid=Cj0KCQjwh_bLBRDeARIsAH4ZYEPwgCyxVciVubU4TPqzuEtPfkPFkvByPuxwsUEBxVCNk5Irfa1_NzkaAitJEALw_wcB"> TSLM2 Adjustable Digital Luxmeter</a> can be bought slightly more cheaply. The attraction of this project is that it introduces teenagers to electronics, programming, a certain amount of physics, and an understanding of horticulture, with a lot of fun thrown in. 
 
 
 ## Software
