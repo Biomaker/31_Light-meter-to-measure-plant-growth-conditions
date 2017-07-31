@@ -85,11 +85,11 @@ Explain how the hardware components (if any) of your project function as concise
 
 Notes on hardware to be moved to the Hardware folder:
 </p><p>
-- <a href="https://www.amazon.co.uk/d/Electronics-Photo/40pcs-Dupont-Male-Female-20cm-Jumper-Connectors/B013EW65H2/ref=sr_1_1?ie=UTF8&qid=1501469205&sr=8-1&keywords=male+to+female+jumper+leads"> 5 jumper leads, male to female</a>£1.99+P&P<br>
-- <a href="https://makersify.com/products/dfrobot-light-sensor-bh1750">one light sensor BH1750</a>£14+P&P<br>
-- <a href="https://www.amazon.co.uk/Arduino-A000066-UNO/dp/B008GRTSV6/ref=sr_1_4?s=computers&ie=UTF8&qid=1501468175&sr=1-4&keywords=arduino+uno">One arduino Uno</a>£17.30+P&P<br>
-- <a href="https://www.seeedstudio.com/Grove-LCD-RGB-Backlight-p-1643.html">One Grove-LCD RGB Backlight v4.0</a>£10.61+P&P<br>
-- <a href="https://www.dfrobot.com/product-500.html">Battery holder + wire to power the Arduino.</a> AA batteries ideal as rechargables are easy to obtain.£1.91+P&P<br>
+- <a href="https://www.amazon.co.uk/d/Electronics-Photo/40pcs-Dupont-Male-Female-20cm-Jumper-Connectors/B013EW65H2/ref=sr_1_1?ie=UTF8&qid=1501469205&sr=8-1&keywords=male+to+female+jumper+leads"> 5 jumper leads, male to female</a> - £1.99+P&P<br>
+- <a href="https://makersify.com/products/dfrobot-light-sensor-bh1750">one light sensor BH1750</a> - £14+P&P<br>
+- <a href="https://www.amazon.co.uk/Arduino-A000066-UNO/dp/B008GRTSV6/ref=sr_1_4?s=computers&ie=UTF8&qid=1501468175&sr=1-4&keywords=arduino+uno">One arduino Uno</a> - £17.30+P&P<br>
+- <a href="https://www.seeedstudio.com/Grove-LCD-RGB-Backlight-p-1643.html">One Grove-LCD RGB Backlight v4.0</a> - £10.61+P&P<br>
+- <a href="https://www.dfrobot.com/product-500.html">Battery holder + wire to power the Arduino.</a> AA batteries ideal as rechargables are easy to obtain. - £1.91+P&P<br>
 
 </p><p>
 Here are some initial images of the hardware. These will be replaced with better ones once the images are ready.
