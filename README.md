@@ -130,6 +130,15 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 | under a pumpkin leaf 2m from greenhouse  |   2000 |
 | next to the pumpkin leaf    |      11600 |
 
+14th August, 22.30, In dining room, with curtains shut.
+
+| location | light intensity in lux  |
+| --------- | ------------------------ |
+| Sitting at computer. Brightness measured at my eyes, pointing to computer. Brightness turned up  | 35 |
+| As above, but brightness turned down | 29 |
+
+
+
 
 
 
