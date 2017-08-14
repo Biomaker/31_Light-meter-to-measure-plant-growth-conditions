@@ -107,7 +107,8 @@ Here are some initial images of the hardware. These will be replaced with better
 
 ## Installation, Maintenance and Testing Guide
 
-Provide instructions on usage, describe a test scheme and show how to run the tests with code and hardware configuration examples with some representative results.
+Using the machine is very easy. Just plug it all togehter. Plug into the computer with the Arduino's usb cable. Run the arduino software and past the code above into the code window. Then press the button (top left) to upload the code to the Arduino. Then unplud from the computer and plug in the battery and walk outside. The machine should automatically start displaying the light intensity on the lcd screen. The table below gives some example readings. 
+
 
 ## Some light meter readings
 
@@ -117,9 +118,9 @@ Provide instructions on usage, describe a test scheme and show how to run the te
 
 | location | light intensity in lux  |
 | --------- | ------------------------ |
-| dining room, 2m from french windows that face east      |    360 |
-| same location but with me between the sensor and door, casting shade   |       79 |
-| almost same location but now sitting 1m from door     |    3000 |
+| dining room, 2m from french windows that face east, doors open      |    360 |
+| same location but with me between the sensor and door, casting shade, doors open   |       79 |
+| almost same location but now sitting 1m from open door     |    3000 |
 | sitting on the step of the french windows, sensor facing up    |     8000 |
 | same location, sensor facing down       |  2000 |
 | out in the garden, sensor facing up, 70% thin cloud     |    20000 |
@@ -136,4 +137,4 @@ Provide instructions on usage, describe a test scheme and show how to run the te
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.) you have chosen to use
+i have no idea what to do with this bit. 
