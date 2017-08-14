@@ -115,7 +115,8 @@ Provide instructions on usage, describe a test scheme and show how to run the te
 
 14th August, 3.20pm 21 degrees C, in my own garden;
 
-| location | light intensity in lux  |
+| location | light intensity in lux  |<br>
+| --------- | ------------------------ |
 | dining room, 2m from french windows that face east      |    360 |<br>
 | same location but with me between the sensor and door, casting shade   |       79 |<br>
 | almost same location but now sitting 1m from door     |    3000 |<br>
