@@ -115,17 +115,18 @@ Provide instructions on usage, describe a test scheme and show how to run the te
 
 14th August, 3.20pm 21 degrees C, in my own garden;
 
-dining room, 2m from french windows that face east          360<br>
-same location but with me between the sensor and door, casting shade          79<br>
-almost same location but now sitting 1m from door         3000<br>
-sitting on the step of the french windows, sensor facing up         8000<br>
-same location, sensor facing down         2000<br>
-out in the garden, sensor facing up, 70% thin cloud         20000<br>
-same, but with a piece of paper held 15cm above to shade sensor       9300<br>
-under the pear tree         5000<br>
-in greenhouse     7200<br>
-under a pumpkin leaf 2m from greenhouse     2000<br>
-next to the pumpkin leaf          11600<br>
+| location | light intensity in lux  |
+| dining room, 2m from french windows that face east      |    360 |<br>
+| same location but with me between the sensor and door, casting shade   |       79 |<br>
+| almost same location but now sitting 1m from door     |    3000 |<br>
+| sitting on the step of the french windows, sensor facing up    |     8000 |<br>
+| same location, sensor facing down       |  2000 |<br>
+| out in the garden, sensor facing up, 70% thin cloud     |    20000 |<br>
+| same, but with a piece of paper held 15cm above to shade sensor  |     9300 |<br>
+| under the pear tree     |    5000 |<br>
+| in greenhouse    | 7200 |<br>
+| under a pumpkin leaf 2m from greenhouse  |   2000 |<br>
+| next to the pumpkin leaf    |      11600 |<br>
 
 
 
