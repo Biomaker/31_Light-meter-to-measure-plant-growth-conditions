@@ -137,6 +137,12 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 | Sitting at computer. Brightness measured at my eyes, pointing to computer. Brightness turned up  | 35 |
 | As above, but brightness turned down | 29 |
 
+15th August, 18.55
+
+| location | light intensity in lux  |
+| --------- | ------------------------ |
+| In garden, blue sky but in shade of the house  | 1900 |
+| Sitting at the computer | 178 |
 
 
 
