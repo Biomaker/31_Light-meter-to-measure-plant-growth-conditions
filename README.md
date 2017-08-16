@@ -145,7 +145,11 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 | Sitting at the computer | 178 |
 
 
+16th August, 16.27
 
+| location | light intensity in lux  |
+| --------- | ------------------------ |
+| Direct sunlight, blue sky  | 54500 |
 
 
 
