@@ -11,7 +11,7 @@
 
 This project is an investigation into the effect of light intensity on the health of plants and people, or more specifically, gardens and gardeners. 
 
-I have spent my life moving back and forth between the north of the UK and the south, and even as far as France, and I have always been puzzled about the incredible effect that geographical location has on plant growth in my gardens, and on the physical health of my friends. 
+I have spent my life moving back and forth between the north of the UK and the south, and even as far as France, and I have always been puzzled about the incredible effect that geographical location has on plant growth in my gardens, and on the physical health of myself and my friends. 
 
 As a child, I moved from Glasgow to Paris and back before the age of 9 and was acutely aware of the changes that I saw my own physiology and on the plant life around me. This same observation held every time I visited Scotland as an adult, through verious seasons and changes of weather, and then reversed as I returned to work in the south. In recent years, as my community and I have matured, I have become aware that certain more serious health problems are more common in the north, and that these are almost certainly brought on partly by lack of sun exposure. At the same time, I have now become a garden owner myself. I now struggle daily with very different gardening challenges in the south, from those of my garden-owning friends in the north. 
 
