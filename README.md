@@ -103,6 +103,10 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 
 ## Some light meter readings
 
+### Maps of test areas
+
+<img src="images/cambridge.jpg" alt="image"/>
+
 ### August
 
 14th August, 3.20pm 21 degrees C, in my own garden;
