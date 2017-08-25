@@ -29,8 +29,8 @@ The design that I have chosen for the light-meter is built from an Arduino and a
 ## Software
 
 <p>
-#include <Wire.h><br>
-#include <BH1750.h><br>
+#include &lt;Wire.h&gt;<br>
+#include &lt;BH1750.h&gt;<br>
 #include "rgb_lcd.h"<br>
   </p><p>
 rgb_lcd lcd;<br>
