@@ -140,7 +140,7 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 | Sitting at the computer | 178 |
 
 
-16th August, 16.27
+16th August, 16.27 and 25th August 12.50pm
 
 | location | light intensity in lux  |
 | --------- | ------------------------ |
