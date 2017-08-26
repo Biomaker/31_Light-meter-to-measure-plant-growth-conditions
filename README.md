@@ -140,7 +140,7 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 | Sitting at the computer | 178 |
 
 
-16th August, 16.27 and 25th August 12.50pm
+Brightest sun
 
 | location | light intensity in lux  |Date| Time|
 | --------- | ------------------------ |-----| -----|
@@ -149,12 +149,13 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 | Direct sunlight, very thin barely-cloud  | 54600 |26th August| 13.05|
 
 
+Sun through the day
 
-
-| location | light intensity in lux  | Time|
-| --------- | ------------------------ |--------|
-| 100% light cloud, in garden | 750 |07.00|
-| 100% light cloud, in garden | 12700 |09.30|
+| location | light intensity in lux  | Date| Time|
+| --------- | ------------------------ |--------|--------|
+| 100% light cloud, in garden | 750 |26th August|07.00|
+| 100% light cloud, in garden | 12700 |26th August|09.30|
+| Direct sunlight, very thin barely-cloud  | 54600 |26th August| 13.05|
 
 
 ## License
