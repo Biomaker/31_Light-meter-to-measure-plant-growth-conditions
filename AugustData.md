@@ -46,7 +46,7 @@ Sun through the day
 
 | location | light intensity in lux  | Date| Time|
 | --------- | ------------------------ |--------|--------|
-| 100% light cloud, in garden | 750 |26th August|07.00|
-| 100% light cloud, in garden | 12700 |26th August|09.30|
-| Direct sunlight, very thin barely-cloud  | 54600 |26th August| 13.05|
-
+| 100% light cloud, outside french windows | 750 |26th August|07.00|
+| 100% light cloud, outside french windows | 12700 |26th August|09.30|
+| Direct sunlight, half way to bench  | 54600 |26th August| 13.05|
+| 100% light cloud, at bench  | 3600 |26th August| 19.00|
