@@ -146,6 +146,8 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 | --------- | ------------------------ |-----| -----|
 | Direct sunlight, blue sky  | 54500 |16th August| 16.27|
 | Direct sunlight, blue sky  | 54500 |25th August| 12.50|
+| Direct sunlight, very thin barely-cloud  | 54600 |26th August| 13.05|
+
 
 
 
