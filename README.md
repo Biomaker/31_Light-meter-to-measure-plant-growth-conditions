@@ -146,12 +146,12 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 | --------- | ------------------------ |
 | Direct sunlight, blue sky  | 54500 |
 
-25th August 7am
+25th August 
 
-| location | light intensity in lux  |
-| --------- | ------------------------ |
-| 100% light cloud, in garden | 750 |
-
+| location | light intensity in lux  | Time|
+| --------- | ------------------------ |--------|
+| 100% light cloud, in garden | 750 |7am|
+| 100% light cloud, in garden | 12700 |9.30am|
 
 
 ## License
