@@ -25,13 +25,13 @@ My hope in this project is to build a light meter that will enable me to accurat
 
 The design that I have chosen for the light-meter is built from an Arduino and associated parts. My hope is that if we find really interesting results, then this could be turned into a population-level educational tool.  It could perhaps be distributed via a magazine like Gardeners' World Magazine or via a tv program like Springwatch, underpinning a national study of light levels in lives and gardens. That way the keen maker-teenagers of the country could build these machines and educate everybody else around them about the nature of light, and its effect on their gardens and health. 
 
-##Hardware
+## Hardware
 
 Visit the <a href="https://github.com/BioMakers/31_Light-meter-to-measure-plant-growth-conditions/blob/master/Hardware.md">hardware</a> summary page to find out about the construction of the light meter.
 
 
 
-##Software
+## Software
 
 Visit the <a href="https://github.com/BioMakers/31_Light-meter-to-measure-plant-growth-conditions/blob/master/Code.md">software</a> summary page to find the code that runs on the light meter.
 
