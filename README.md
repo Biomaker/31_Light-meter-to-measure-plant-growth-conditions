@@ -59,7 +59,7 @@ void loop() {<br>
 </p><p>
   // Clear the bottom line of the LCD<br>
   lcd.setCursor(0,1);<br>
-  lcd.print("          ");<br>
+  lcd.print("  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        ");<br>
 </p><p>
   // For LCD: set the cursor to column 0, line 1<br>
   // (note: line 1 is the second row, since counting begins with 0):<br>
