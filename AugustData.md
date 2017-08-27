@@ -57,3 +57,4 @@ A full day of blue sky
 | location | light intensity in lux  | Date| Time|
 | --------- | ------------------------ |--------|--------|
 | Blue sky, bench | 100 |27th August|06.00|
+| Blue sky, bench | 2700 |27th August|07.00|
