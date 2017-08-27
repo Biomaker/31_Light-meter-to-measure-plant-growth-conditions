@@ -50,3 +50,10 @@ Sun through the day
 | 100% light cloud, outside french windows | 12700 |26th August|09.30|
 | Direct sunlight, half way to bench  | 54600 |26th August| 13.05|
 | 100% light cloud, at bench  | 3600 |26th August| 19.00|
+
+
+A full day of blue sky
+
+| location | light intensity in lux  | Date| Time|
+| --------- | ------------------------ |--------|--------|
+| Blue sky, bench | 100 |27th August|06.00|
