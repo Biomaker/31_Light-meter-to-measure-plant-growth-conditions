@@ -58,12 +58,13 @@ A full day of blue sky
 | --------- | ------------------------ |--------|--------|
 | Blue sky, bench | 100 |27th August|06.00|
 | Blue sky, bench | 2700 |27th August|07.00|
-| Blue sky, bench | 8000 |27th August|08.00|
-| 100% medium cloud, bench | 20000 |27th August|10.00|
+| Blue sky, bench, sun coming up over trees | 8000 |27th August|08.00|
+| 100% medium cloud, bench, sun coming up over trees | 20000 |27th August|10.00|
 | Blue sky, bench | 54600 |27th August|11.37|
 | Blue sky, bench | 54600 |27th August|13.04|
 | Blue sky, bench | 54600 |27th August|14.13|
 | Blue sky, bench | 54600 |27th August|17.14|
 | Blue sky, front garden | 54600 |27th August|18.03|
+| Blue sky, front garden, sun going down behind garages | 23400 |27th August|18.54|
 
 (All of the 54600 measurements are actually 54612. It's weirdly consistent.)
