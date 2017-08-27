@@ -62,3 +62,4 @@ A full day of blue sky
 | 100% medium cloud, bench | 20000 |27th August|10.00|
 | Blue sky, bench | 54600 |27th August|11.37|
 | Blue sky, bench | 54600 |27th August|13.04|
+| Blue sky, bench | 54600 |27th August|14.13|
