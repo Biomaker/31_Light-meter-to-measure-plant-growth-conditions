@@ -63,3 +63,6 @@ A full day of blue sky
 | Blue sky, bench | 54600 |27th August|11.37|
 | Blue sky, bench | 54600 |27th August|13.04|
 | Blue sky, bench | 54600 |27th August|14.13|
+| Blue sky, bench | 54600 |27th August|17.14|
+
+(All of the 54600 measurements are actually 54612. It's weirdly consistent.)
