@@ -2,6 +2,8 @@
 
 ### August
 
+### Cambridge
+
 14th August, 3.20pm 21 degrees C, in my own garden;
 
 | location | light intensity in lux  |
@@ -68,3 +70,14 @@ A full day of blue sky
 | Blue sky, front garden, sun going down behind garages | 23400 |27th August|18.54|
 
 (All of the 54600 measurements are actually 54612. It's weirdly consistent.)
+
+
+### Fenwick
+
+| location | light intensity in lux  | Date|
+| --------- | ------------------------ |--------|
+| Blue sky, direct sun | 54612 |30th August|
+| Blue sky, direct sun, filtered through conservatory roof | 54612 |30th August|
+
+Catriona and I both wonder why we keep getting 54612. Maybe the sensor is maxing out. It's meant to go up to 100,000.
+
