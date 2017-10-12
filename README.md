@@ -54,4 +54,4 @@ To see the results of our experiments please visit the following links:
 
 ## License
 
-i have no idea what to do with this bit. 
+I have no claim on this design. The parts are all commercially available, specifically to do this, and I am just using them for my own fun. 
