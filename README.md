@@ -50,7 +50,9 @@ Using the machine is very easy. Just plug it all togehter. Plug into the compute
 
 To see the results of our experiments please visit the following links:
 
-<a href="https://github.com/BioMakers/31_Light-meter-to-measure-plant-growth-conditions/blob/master/AugustData.md">August 2017</a>
+<a href="https://github.com/BioMakers/31_Light-meter-to-measure-plant-growth-conditions/blob/master/AugustData.md">August 2017</a><br>
+
+<a href="https://github.com/BioMakers/31_Light-meter-to-measure-plant-growth-conditions/blob/master/September.md">September 2017</a>
 
 ## License
 
