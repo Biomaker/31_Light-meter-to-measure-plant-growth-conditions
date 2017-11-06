@@ -12,4 +12,6 @@ is a strong cultural expectation on women to look slim, which is not really comp
 So I'm looking into clothing technology to figure out how to pull off warm and slim at the same time. It turns out that brands 
 like Rohan take this stuff quite seriously and there are other technologies like "thermogen" that are built for this. 
 
-Anyway - I'm on the case. 
+## Update - 6/11/17
+
+I went out and bought some <a href="http://lockwoods.com/outdoor-clothing/technical-trousers/womens-technical-trousers-shorts/hs-hotsport-outerwear-women-benia-trouser/prod_2358.html">warm clothes</a> to try this experiment and it definitely helped a lot. I then was able to spend an hour outside in the garden rather than 10 minutes, and it was perfectly enjoyable. The light intensity at 4pm was 645 outside, falling to 4 when I stepped into the house and only 35 with the lights on indoors. 
