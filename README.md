@@ -60,7 +60,7 @@ To see the results of our experiments please visit the following links:
 
 <a href="https://github.com/BioMakers/31_Light-meter-to-measure-plant-growth-conditions/blob/master/December.md">December 2017</a>
 
-<a href="https://github.com/BioMakers/31_Light-meter-to-measure-plant-growth-conditions/blob/master/January.md">January 2017</a>
+<a href="https://github.com/BioMakers/31_Light-meter-to-measure-plant-growth-conditions/blob/master/January.md">January 2018</a>
 
 
 ## License
