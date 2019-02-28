@@ -10,7 +10,7 @@
 - <a href="http://www.robotshop.com/uk/adafruit-battery-holder-barrel-jack.html?gclid=Cj0KCQjwlMXMBRC1ARIsAKKGuwgjdagw_J_4zrTdrNKmqMNNupCF1OF1kEguYkfuQn4ah6_1nsIECt8aApqwEALw_wcB">Battery holder + wire to power the Arduino.</a> AA batteries ideal as rechargables are easy to obtain. 6 x AA batteries are needed to give 9V. Four AAs is not enough to power the screen - £4.66+P&P<br>
 </p><p>
   
-The light sensor measures from 0 to 100,000 lux, which is a very good range for measuring from the darkest room in a house to the brightest day outside.   
+The light sensor measures from 0 to 55,000 lux, which is a very good range for measuring from the darkest room in a house to the brightest day outside.   
 
 </p><p>
 
